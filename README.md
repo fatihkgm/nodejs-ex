@@ -24,7 +24,7 @@
   * [Web UI](#web-ui)
   * [Looking for help](#looking-for-help)
   * [Compatibility](#compatibility)
-  * [License](#license)
+  * [License](#license).
 
 <!-- tocstop -->
 
